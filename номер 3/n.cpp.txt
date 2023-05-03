@@ -1,0 +1,4 @@
+Number Number::operator+(int i) { 
+    Number res(i * this->denominator() + this->numerator(), this->denominator()); 
+    return res; 
+}

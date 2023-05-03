@@ -1,0 +1,20 @@
+class Number { 
+public: 
+    Number(int numerator = 0, int denominator = 1); 
+ 
+    int getNumerator() {return this->numerator;} 
+    int getDenominator() {return this->denominator;} 
+    string toString(); 
+ 
+    // определяем арифметические действия дробей с дробями 
+    Number operator+ (Number &other); 
+    Number operator- (Number &other); 
+    Number operator* (Number &other); 
+    Number operator/ (Number &other); 
+ 
+    // определяем арифметические действия дробей с целыми числами 
+    Number operator+ (int i); 
+protected: 
+    int numerator; // числитель 
+    int denominator; // знаменатель 
+}; 
