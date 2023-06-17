@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(67,1): error C2628: недопустимый "Game" с последующим "void" (возможно, отсутствует ";")
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(69,9): error C2065: shipX: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(71,9): error C2065: shipX: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(73,9): error C2065: gameOver: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(77,5): error C2065: asteroid: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(79,9): error C2065: asteroid: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(79,23): error C2065: shipX: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(79,32): error C2065: asteroid: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(80,9): error C2065: gameOver: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(82,9): error C2065: asteroid: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(83,9): error C2065: score: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(84,9): error C2065: asteroid: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(85,9): error C2065: asteroid: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,5): error C3861: Setup: идентификатор не найден
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,13): error C2065: gameOver: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(95,9): error C3861: Draw: идентификатор не найден
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,31): error C2065: score: необъявленный идентификатор
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,1): error C2059: синтаксическая ошибка: }
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(107,10): error C2039: "Run": не является членом "Game".
+C:\Users\nikit\Desktop\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,7): message : см. объявление "Game"
